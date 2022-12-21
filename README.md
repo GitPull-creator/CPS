@@ -17,5 +17,5 @@
 ##### Клонировать репозиторий
 
 ```
-git clone https://github.com/GitPull-creator/Site.git
+git clone https://github.com/GitPull-creator/CPS.git
 ```
