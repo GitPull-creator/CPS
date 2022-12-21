@@ -2,7 +2,7 @@
 
 Выполнение верстки по блоку 1.6
 
-Для просмотра проекта, необходимо перейти по [ссылке](https://gitpull-creator.github.io/Site/).
+Для просмотра проекта, необходимо перейти по [ссылке](https://gitpull-creator.github.io/CPS/).
 Верстка выполнена по [макету](https://www.figma.com/file/xwf6DjV1pcVju9my3VNcXN/CPSdesign-for-practice)
 
 Во время выполнения проекта были закреплены навыки:
