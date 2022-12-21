@@ -32,13 +32,10 @@
 
     &--hidden-xs {
       display: none;
-
-
     }
 
     &--hidden-xs-sm-md {
       display: none;
-
     }
   }
 
@@ -71,8 +68,8 @@
       height: 350px;
     }
   }
+}
 
-  .show-hidden-text {
-    display: inline;
-  }
+.show-hidden-text {
+  display: inline;
 }
