@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{4:function(e,t){var n=document.querySelector(".about__read-more-btn"),o=document.querySelector(".about__text--hidden-xs");window.addEventListener("resize",(function(){hideList()})),n.addEventListener("click",(function(){"Читать далее"===n.textContent?(n.textContent="Скрыть",o.classList.add("show-hidden-text")):(n.textContent="Читать далее",o.classList.remove("show-hidden-text"))}))}}]);
+//# sourceMappingURL=2.bundle.js.map
