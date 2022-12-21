@@ -1,4 +1,4 @@
-@import '../../node_modules/swiper/swiper-bundle.css';
+@import "../../node_modules/swiper/swiper-bundle.css";
 *,
 *::after,
 *::before {
@@ -129,7 +129,7 @@ img {
 .btn:hover, .btn:focus, .btn:active {
   opacity: 0.7;
   transition: opacity 0.3s;
-  outline: 0px;
+  outline: 0;
 }
 .btn:not(:last-of-type) {
   margin-right: 16px;

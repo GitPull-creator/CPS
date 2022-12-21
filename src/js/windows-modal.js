@@ -50,7 +50,7 @@ for (let i = 0; i < modals.length; i++) {
 
 
 page.addEventListener('click', function (evt)  {
-  if (evt.target != burgerBtn && evt.target != callBtns[1] && evt.target != chatBtns[1]) {
+  if (evt.target !== burgerBtn && evt.target !== callBtns[1] && evt.target !== chatBtns[1]) {
     hideModal(modalMenu);
     hideModal(modalCall);
     hideModal(modalFeedback);
@@ -60,7 +60,7 @@ page.addEventListener('click', function (evt)  {
 });
 
 modalMenu.addEventListener('click', function (evt)  {
-  if (evt.target != burgerBtn && evt.target != callBtns[0] && evt.target != chatBtns[0]) {
+  if (evt.target !== burgerBtn && evt.target !== callBtns[0] && evt.target !== chatBtns[0]) {
     hideModal(modalCall);
     hideModal(modalFeedback);
     if (modalMenu.classList.contains('blur')) {
